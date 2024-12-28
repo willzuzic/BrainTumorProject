@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project takes images of MRI brain scans and using neural networks puts them into 4 different categories judging on the form of tumor present if any. The goal of this project is to provide a tool for the identification of medical tumors. The system is built using a Convolutional Neural Network (CNN) and uses the design mentioned in the paper below:
+This project takes images of MRI brain scans and using neural networks puts them into 4 different categories judging on the form of tumor present if any. The goal of this project is to provide a tool for the identification of medical tumors. This model is about 97% accurate. The system is built using a Convolutional Neural Network (CNN) and uses the design mentioned in the paper below:
 https://www.sciencedirect.com/science/article/abs/pii/S1877750324001170#sec0025
 
 ## Features
